@@ -100,9 +100,6 @@ hospital-website-design/
 | Dark Text | `#1a2d4a` | Headings, body text |
 | White | `#ffffff` | Backgrounds, cards |
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
